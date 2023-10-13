@@ -344,6 +344,20 @@ a.navbar-brand {
     margin-top: 20px
 }
 
+.card-depoimentos {
+    
+    
+    height: 366px;
+    width: 438px;
+    border-radius: 128px;
+    background-color: var(--color-secundary);
+    position: absolute;
+    right: 0;
+    top: 15px;
+    left: -16px;
+    
+}
+
 .depoimentos {
     padding-top: 100px;
     padding-bottom: 150px;
